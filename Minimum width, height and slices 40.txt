@@ -1,0 +1,2 @@
+Minimum width, height and slices: 400, 400, 200
+Maximum width, height and slices: 400, 400, 661

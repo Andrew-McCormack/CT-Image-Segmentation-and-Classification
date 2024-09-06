@@ -1,0 +1,5 @@
+Patient PETCT_07574bfa00, PETCT_790246c76c, PETCT_7d01eb835d seems to have issues isolating lungs, have excluded them from model for time being
+
+Lung Region Scan Info:
+Minimum width, height and slices: 400, 400, 8
+Maximum width, height and slices: 400, 400, 180

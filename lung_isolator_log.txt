@@ -1,0 +1,3 @@
+2024-08-29 18:05:08,611 - INFO - All files have been processed
+2024-09-01 23:59:08,659 - INFO - Isolating lung region for scans of: PETCT_07574bfa00
+2024-09-01 23:59:12,089 - INFO - All files have been processed

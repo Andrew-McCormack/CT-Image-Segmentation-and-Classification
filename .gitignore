@@ -1,5 +1,8 @@
-**/DICOM
-**/HDF5
-**/NIFTI
-**/runs
-**/Whole Body CT Segmentation
+DICOM/
+HDF5/
+NIFTI/
+runs/
+Whole Body CT Segmentation/
+*.dcm
+*.hdf5
+*.nii.gz

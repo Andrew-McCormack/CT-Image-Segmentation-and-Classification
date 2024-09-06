@@ -3,6 +3,7 @@ HDF5/
 NIFTI/
 runs/
 Whole Body CT Segmentation/
+.vs/
 *.dcm
 *.hdf5
 *.nii.gz
